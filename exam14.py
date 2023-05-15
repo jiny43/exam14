@@ -9,3 +9,15 @@ print(type(z))
 # <class 'int'>
 # <class 'float'>
 # <class 'complex'>
+
+# Text Type:	str
+# Numeric Types:	int, float, complex
+
+function exampleOne(a){
+  if(str !== float){
+    
+  }
+  
+}
+  
+}
