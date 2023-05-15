@@ -22,13 +22,8 @@ print(type(z))
 
 
 
-exampleOne(a){
+def exampleOne(a):
   if str != float:
-    pint("정수를 입력하세요")
+    print("정수를 입력하세요")
     
-    
-  }
   
-}
-  
-}
