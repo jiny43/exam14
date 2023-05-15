@@ -1,10 +1,10 @@
-x = 1
-y = 2.8
-z = 1j
+# x = 1
+# y = 2.8
+# z = 1j
 
-print(type(x))
-print(type(y))
-print(type(z))
+# print(type(x))
+# print(type(y))
+# print(type(z))
 
 # <class 'int'>
 # <class 'float'>
@@ -22,8 +22,10 @@ print(type(z))
 
 
 
+# def exampleOne(a):
+#   if str != float:
+#     print("정수를 입력하세요")
+# x = isinstance(5, int) //true
 def exampleOne(a):
-  if str != float:
-    print("정수를 입력하세요")
+  if isinstance(a,int):
     
-  
