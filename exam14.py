@@ -26,7 +26,8 @@
 #   if str != float:
 #     print("정수를 입력하세요")
 # x = isinstance(5, int) //true
-a = 5
-if isinstance(a, float):
+a = 5.8
+if not isinstance(a, int):
     print("정수를 입력해주세요")
     
+# a가 int가 아니라면 정수를 입력해주세요
