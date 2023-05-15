@@ -26,6 +26,7 @@
 #   if str != float:
 #     print("정수를 입력하세요")
 # x = isinstance(5, int) //true
-def exampleOne(a):
-  if isinstance(a,int):
+a = 5
+if isinstance(a, float):
+    print("정수를 입력해주세요")
     
